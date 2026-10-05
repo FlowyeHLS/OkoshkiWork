@@ -1,4 +1,4 @@
-package fIRST;
+package Staroe.fIRST;
 
 public class Main
 {

@@ -1,6 +1,5 @@
-package SECOND;
+package Staroe.fIRST.SECOND;
 import javax.swing.*;
-import java.awt.event.*;
 
 public class Main extends JFrame
 {
