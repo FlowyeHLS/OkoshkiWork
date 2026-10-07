@@ -1,4 +1,4 @@
-package New05_10_26.I;
+package Staroe.fIRST.New05_10_26.I;
 
 public class ThreadPrinter
 {
