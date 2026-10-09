@@ -1,0 +1,17 @@
+Ostatki na sklade:
+A_1;Keyboard;0
+A_2;Mouse;0
+A_3;HeadSet;0
+A_4;Monik;0
+A_5;MousePAd;0
+A_6;Mic;0
+A_7;Vebka;0
+
+Yspeh zakaz: 39
+Unluck zakaz: 211
+Sell product: 102
+Polych product: 1
+Babos polychen: 625800
+Nachal ostatok: 101
+Itogovi ostatok: 0
+BalanceCorrect: true
