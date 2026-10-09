@@ -1,4 +1,4 @@
-package New07_10_26.ii;
+package Staroe.fIRST.New07_10_26.ii;
 
 public class Main
 {
